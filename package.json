@@ -11,6 +11,7 @@
   "dependencies": {
     "@clerk/nextjs": "^4.29.6",
     "@hookform/resolvers": "^3.3.4",
+    "@next/swc-win32-x64-msvc": "^14.1.4",
     "@radix-ui/react-alert-dialog": "^1.0.5",
     "@radix-ui/react-dialog": "^1.0.5",
     "@radix-ui/react-label": "^2.0.2",
@@ -21,6 +22,7 @@
     "class-variance-authority": "^0.7.0",
     "cloudinary": "^2.0.1",
     "clsx": "^2.1.0",
+    "is-extglob": "^2.1.1",
     "lucide-react": "^0.323.0",
     "mongodb": "^6.3.0",
     "mongoose": "^8.1.1",
